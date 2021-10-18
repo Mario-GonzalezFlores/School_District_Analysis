@@ -6,9 +6,13 @@ The main purpose of this analysis is to offer a view on the performance of the s
 
 ## Results
 
-![All-schools_challenge](https://user-images.githubusercontent.com/89816213/137651200-7c3edb97-27fc-4937-a950-fb49174aed36.PNG)
+![summary_challenge](https://user-images.githubusercontent.com/89816213/137657004-22501bc2-1793-48cd-92c9-f6de73a12d1c.PNG)
+
+This dataframe offers a general view of the results per school, though it does not allows to make a higher level analysis of trends that might allow us to better understand the performance of the schools in the district.
 
 ![spending_challenge](https://user-images.githubusercontent.com/89816213/137651206-ab3fba40-7164-474f-a050-7e6f60183cd0.PNG)
+
+There seems to be a paradoxical realation between spending and passing rates, since the last seems to decrease as the spending per student increases, thhough it can be inferred that such correlation relies on the fact that students with lower grades might need a higher amount of funding to level with the rest.
 
 ![type_challenge](https://user-images.githubusercontent.com/89816213/137651222-556c869b-3d9e-4ec5-87ca-a7f4b8bf3cb9.PNG)
 
@@ -20,4 +24,4 @@ When considering the performance by size, it's important to first see the relati
 
 ![reading_by_grade](https://user-images.githubusercontent.com/89816213/137651214-d8a9118b-2115-46de-8911-9944b7094b47.PNG)         ![math_by_grade](https://user-images.githubusercontent.com/89816213/137651215-c535b839-5669-47f5-9096-3d2f2df5c254.PNG)
 
-Reading average grade tends to be stable among all schools, which might indicate that tere is no high interest in the students in achieving higher grades, probably because reading is not 
+Reading and math average grades tend to be stable among all schools, which can be an indicator that as students move from one grade to the next the difficulty increases along sith their capabilities, mantaining the learning curve ahead.
