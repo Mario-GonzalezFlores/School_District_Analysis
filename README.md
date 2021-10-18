@@ -18,6 +18,6 @@ It's visible that charter chools have better performance in both, reading and ma
 
 When considering the performance by size, it's important to first see the relation between the size and type of school; since most charter schools are int he medium range we can infere that it acn be a reason fo medium sized schools to perform better, much rather than there being a real dependency between the size and performance.
 
-![reading_by_grade](https://user-images.githubusercontent.com/89816213/137651214-d8a9118b-2115-46de-8911-9944b7094b47.PNG)![math_by_grade](https://user-images.githubusercontent.com/89816213/137651215-c535b839-5669-47f5-9096-3d2f2df5c254.PNG)
+![reading_by_grade](https://user-images.githubusercontent.com/89816213/137651214-d8a9118b-2115-46de-8911-9944b7094b47.PNG)         ![math_by_grade](https://user-images.githubusercontent.com/89816213/137651215-c535b839-5669-47f5-9096-3d2f2df5c254.PNG)
 
 Reading average grade tends to be stable among all schools, which might indicate that tere is no high interest in the students in achieving higher grades, probably because reading is not 
